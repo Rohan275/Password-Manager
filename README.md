@@ -1,4 +1,4 @@
-# Password-Manager-
+# Password-Manager
 Simple Password Management System - C Project
 ## K.Rohan
 ## RA2111037010042
